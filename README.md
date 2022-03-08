@@ -1,3 +1,3 @@
 # Game
 Basic game created during the discipline of programing logic
-![rastringin function](https://github.com/rafaelviniciusoliveira/game/screenshot.png)
+![Game](https://github.com/rafaelviniciusoliveira/Game/screenshot.png)
